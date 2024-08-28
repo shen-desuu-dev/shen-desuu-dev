@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shen (Stephen Raphael L. Garcia)</h1>
 <h3 align="center">A developer based from the Philippines</h3>
+<p align="center">
+<img src="https://github.com/shen-desuu-dev/shen-desuu-dev/blob/main/455137973_1544101509826316_6909892972539183853_n.jpg" width="100" height="100" border="10"/>
+</p>
 
-<img align="center" width="100" height="100" src="https://komarev.com/ghpvc/?username=shen-desuu-dev&label=Profile%20views&color=0e75b6&style=flat">
   Hello my name is Stephen Raphael L. Garcia and I do stuff for fun.
   
   - 🍀 I am a developer based from the Philippines.
