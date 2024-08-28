@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shen (Stephen Raphael L. Garcia)</h1>
 <h3 align="center">A developer based from the Philippines</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shen-desuu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shen-desuu-dev" /> </p>
+<img align="center" width="100" height="100" src="https://komarev.com/ghpvc/?username=shen-desuu-dev&label=Profile%20views&color=0e75b6&style=flat">
   Hello my name is Stephen Raphael L. Garcia and I do stuff for fun.
+  
   - 🍀 I am a developer based from the Philippines.
   - 🧑‍🎓 I am a senior high school student.
   <img align="right" src="https://media.discordapp.net/attachments/826713226204413984/1235083206269730857/tMhbAAAAAElFTkSuQmCC.png?ex=6633145f&is=6631c2df&hm=4222efbed1ffa3c4412bd0d5ace2a65eeaec0e21d98e4fe3174c8a4529a63b3e&=&format=webp&quality=lossless&width=221&height=393"
